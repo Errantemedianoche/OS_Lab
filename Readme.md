@@ -28,16 +28,16 @@ GET: http://localhost:4002/usuarios
 
 POST: http://localhost:4002/usuarios 
 
-
-        body: {
-            "nombre":"Teresa",
-            "usuario": "Kimoto",   **obligatorio y único**
-            "email": "terek@gmail.com",  **obligatorio**
-            "contrato":"87765",
-            "password":"6654547",   **obligatorio*
-            "rol": "Padre"   **obligatorio**
-            }
-
+ body: {
+  "nombre":"Morena",
+  "apellido": "Tapiea",
+  "usuario": "Lolo",
+  "email": "lorenadufaur@gmail.com",
+  "telefono": "4567-8910",
+  "contrato":"1313",
+  "password":"1111",
+  "rol": "administrador"
+}
 
 GET by id: http://localhost:4002/usuarios/id
 
