@@ -1,6 +1,6 @@
 Esta api maneja todo lo relativo al Login
 
-
+**antes de iniciar instalar las dependencias con npm install
 **iniciar la api: npm start
 
 
