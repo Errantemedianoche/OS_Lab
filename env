@@ -1,8 +1,0 @@
-DB_PORT='5432'
-DB_HOST='postgresql.hector-buet-dev.svc.cluster.local'
-DB_USER='hectorb'
-DB_PASSWORD='Focusbs10'
-DB_NAME='sampledb'
-PORT='4002'
-HOST='localhost'
-KEY_NAME='lorena'
